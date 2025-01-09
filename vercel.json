@@ -1,5 +1,5 @@
 {
     "routes": [
-      { "src": "/reactjs-template", "dest": "/" },
+      { "src": "/reactjs-template", "dest": "/" }
     ]
-  }
+}
